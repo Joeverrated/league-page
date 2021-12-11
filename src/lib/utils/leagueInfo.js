@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p> Jon's Window Is Closed </p>
+  <p> Jons Window Is Closed </p>
 `;
 
 /*   STEP 3   */
